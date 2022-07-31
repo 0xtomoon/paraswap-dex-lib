@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+build/
+yarn-error.log
+.env
+.vscode/
+tests/logs.json
+tests/states.json
+tests/configs.json
+.idea/
+local-scripts
